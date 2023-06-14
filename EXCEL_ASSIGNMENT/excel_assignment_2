@@ -1,0 +1,94 @@
+ Q1. What does the dollar($) sign do?
+ Ans = the dollar($) sign fixes the reference to a given cell, so that it remains unchanged no matter where the formula moves. Using dollar 
+       in cell references allow us to copy the formula in excel without changing references.
+       
+Q2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans =  Changing a cell from a relative to an absolute refence can b done by following steps:-
+   
+   I. open microsoft excel
+   II. highlight the cell containing the formula we want to have changed to an absolute or relative reference.
+   III. Click the formula box or highlight the formula and press the F4 key to switch between an absolute and relative cell reference.
+   
+  * Here is what happens when you select the reference and press the F4 key.
+
+#. Press F4 key once: becomes ‘absolute’ from ‘relative’.
+#. Press F4 key two times: changes to mixed reference where the row is locked.
+#. Press F4 key three times: changes to mixed reference where the column is locked.
+
+
+3. Explain the order of operations in excel?
+Ans = Explain the order of operations in excel?
+ans = In general, Excel's order of operation follows the acronym PEMDAS (Parentheses, Exponents, 
+Multiplication, Division, Addition, Subtraction) but with some customization to handle the formula syntax in a spreadsheet. 
+Excel solves formulas in the following order:
+
+#. Parentheses Reference operators
+#. Exponents
+#.Negation
+#. Percent
+#.Multiplication and Division
+#.Addition and Subtraction
+#. Concatenation
+#.Logical operators
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+for any of two? 
+Ans = top 5 and most used functions in excel are as follows:-
+
+#. The SUM Function
+The sum function is the most used function when it comes to computing data on Excel. 
+This function works to sum a group of numbers in a specific set of cells.This function is performed by
+typing the formula on the function bar and highlighting the cellsyou want summed before clicking “Enter”.
+** The syntax formula for sum function is “=SUM” (number1, number2, etc.).
+
+#. The TEXT Function
+Text function is a useful tool that helps convert a date (or number) into a text string in a particular format. 
+It falls in the category of string formulas that converts numerical values to a string. 
+It is handy when users need to view numeric data in a readable format.
+**The syntax formula for text function is “=TEXT” (value, format_text).
+
+#. The VLOOKUP Function
+VLookup is powerful Excel function that is often overlooked.
+Users will find it useful when they need to find specific data on a large table. 
+You can also use VLookup to search for names, phone number, or specific data on your sheet.
+
+#. The AVERAGE Function
+The average function is an extremely useful tool for getting the average value in a range of cells.
+the average function works to find the “arithmetic mean” for a group of cells. 
+Aside from the average function, Excel also has the median and mode function.
+
+3. The CONCATENATE Function
+This function is a good time saver when you need to combine data from 2 or more cells. 
+Unlike the merge tool which physically merges two or more cells into a single cell, 
+the concatenate function only combines the contents of the combined cells.
+
+
+5. When would you use the subtotal function?
+Ans = SUBTOTAL -> The SUBTOTAL Function in Excel allows users to create groups and then perform various other Excel functions 
+such as SUM, COUNT, AVERAGE, PRODUCT, MAX, etc. Thus, the SUBTOTAL function in Excel helps in analyzing the data provided.
+Sometimes, we need data based on different categories. 
+SUBTOTALS help us to get the totals of several columns of data broken down into various categories. 
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+Ans=  syntax --> VLOOKUP(lookup_value, table_array, col_index_num,[range_lookup]) 
+
+Here is the detailed explanation of arguments for Vlookup formula.
+
+#. lookup_value : lookup_value is the first parameter of excel Vlookup formula . 
+lookup_value is a required parameter in Vlookup function in excel . 
+Lookup value is a value which user wants to search in the first column of a range array and wants 
+the respective row values to be returned.
+
+#.table_array: table_array is the second parameter of excel Vlookup formula. 
+table_array is a required parameter in Vlookup function in excel. 
+table_array is a range in Excel worksheet which user wants to search the lookup value in the first column of this table array.
+
+#. col_index_num: col_index_num is the third parameter of excel Vlookup formula. 
+col_index_num is a required parameter in Vlookup function in excel.
+We need to mention column index number in the Vlookup formula to tell Excel from which column of the given array 
+to be picked a row value of the lookup value. Column index number should be always greater 
+than equals to 1 and less than or equals to number of columns in the given table array range. 
+
+#. range lookup: range_lookup is the fourth parameter of excel formula. range_lookup is an optional parameter 
+in Vlookup function in Excel. Range lookup parameter is to specify whether user required an exact match 
+values or an approximate match values. If you omit this parameter, Vlookup function treat it as TRUE as default.
