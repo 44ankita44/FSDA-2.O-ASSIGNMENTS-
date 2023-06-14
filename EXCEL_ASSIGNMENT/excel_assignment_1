@@ -1,0 +1,48 @@
+Q1. What do you mean by cells in an excel sheet? 
+ans = a cell is an essential part of MS-excel. It is an object of 
+excel worksheets,the excl worksheets contains cells to store the 
+information in them. Cells are the building blocks of the excel 
+worksheet. 
+
+
+Q2. How can you restrict someone from copying a cell from your worksheet? 
+ans = in order to protect our worksheet from getting copied, we need
+to go into MENU BAR > REVIEW >PROTECT SHEET > PASSWORD 
+in this way we can protect sheet from getting copied. 
+
+
+Q3. How to move or copy the worksheet into another workbook? 
+ans = we can use the Move or Copy Sheet command to move or copy
+entire worksheets, to other locations in the same or a different 
+workbook. You can use the Cut and Copy commands to move or copy 
+a portion of the data to other worksheets or workbooks. 
+
+
+Q4. Which key is used as a shortcut for opening a new window document? 
+ans = It would be Control key + N in most of cases for Windows 
+Applications like Office or Notepad or any general editor. This also 
+creates a new file within a folder where as Ctrl + Shift + N for new 
+folder. 
+
+
+Q5. What are the things that we can notice after opening the Excel interface?
+Ans = 
+  Home
+ Comprises options like font size, font styles, font colour, background colour, alignment, formatting options and styles, insertion and deletion of cells and editing options
+* Insert
+Comprises options like table format and style, inserting images and figures, adding graphs, charts and sparklines, header and footer option, equation and symbols
+* Page Layout
+Themes, orientation and page setup options are available under the page layout option
+* Formulas
+Since tables with a large amount of data can be created in MS excel, under this feature, you can add formulas to your table and get quicker solutions 
+* Data
+adding external data (from the web), filtering options and data tools are available under this category
+* Review
+Proofreading can be done for an excel sheet (like spell check) in the review category and a reader can add comments in this part 
+* View
+Different views in which we want the spreadsheet to be displayed can be edited here. Options to zoom in and out and pane arrangement are available under this category 
+
+Q6. When to use a relative cell reference in excel?
+Ans = relative reference is a type of cell reference in excel. This reference changes when the formula is copied to any other cell or any other worksheet. Relative cell references are used whenever calculations need to be repeated.
+
+
