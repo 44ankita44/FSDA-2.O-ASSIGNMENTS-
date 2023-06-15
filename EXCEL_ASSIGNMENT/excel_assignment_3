@@ -1,0 +1,54 @@
+Q1. How and when to use the AutoSum command in excel?
+Ans = Whenever you need to sum a single range of cells, whether a column, 
+row or several adjacent columns or rows, you can have Excel AutoSum to automatically make an appropriate SUM formula for you.
+
+#I. Select a cell next to the numbers you want to sum:
+* To sum a column, select the cell immediately below the last value in the column.
+* To sum a row, select the cell to the right of the last number in the row.
+
+#II. Click the AutoSum button on either the Home or Formulas tab.
+
+#III. Press the Enter key to complete the formula.
+
+Q2. What is the shortcut key to perform AutoSum?
+Ans = AutoSum is a fast, easy way to add up multiple values in Excel. 
+You can access the AutoSum command from either the Home tab or the Formulas tab, 
+but there is a keyboard shortcut that makes it even faster: Alt + =.
+
+Q3. How do you get rid of Formula that omits adjacent cells?
+Ans = The error formula omits adjacent cells means that there is an error in the formula in the cell.
+When you have an array of formulas, Excel assumes that the data for all are continuous and not separated by other data.
+Check off the following first before you proceed:
+
+First, check to make sure that your formula includes all of the necessary parts. 
+If you are working with a small data set, try to identify any empty cells and delete them.
+
+#I.Uncheck formulas that omit cells
+* Launch your Excel sheet and then click on File.
+* Navigate to Options and then select Formulas.
+* Look for Error checking rules and uncheck Formulas which omit cells in a region.
+* Click OK.
+
+#II. witch from absolute to relative reference
+* Open the Excel sheet and select the cell that contains the formula.
+* Navigate to the formula bar at the top and press F4 until you get the relative reference option.
+
+#III. Update the formula to include the cell.
+
+
+Q4. How do you select non-adjacent cells in Excel 2016?
+Ans =  select one or more cells
+     #. Click on a cell to select it. Or use the keyboard to navigate to it and select it.
+     #. To select a range, select a cell, then with the left mouse button pressed, drag over the other cells.
+     #. Or use the Shift + arrow keys to select the range.
+     #. To select non-adjacent cells and cell ranges, hold Ctrl and select the cells.
+
+5. What happens if you choose a column, hold down the Alt key and press the letters 
+    ocw in quick succession?
+Ans = the column width dialogue box opens allowing you to set the exact width of the column.    
+
+6. If you right-click on a row reference number and click on Insert, where will the row 
+   be added?
+Ans =   A new row is inserted above the cell(s) weoriginally selected.  
+   
+   
