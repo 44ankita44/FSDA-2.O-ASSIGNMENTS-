@@ -1,0 +1,50 @@
+1.Q How many types of conditions are available in conditional formatting on Excel?
+
+ANS = 
+      There are 5 types of conditional formatting visualizations available:
+Background Color Shading (of cells)
+Foreground Color Shading (of fonts)
+Data Bars
+Icons (which have 4 different image types)
+Values 
+
+Q2. How to insert border in Excel with Format Cells dialog?
+ANS = The Format Cells dialog is the most effective method of adding borders in Excel. It gives you easy access to all the settings including the line colour and thickness as well as a nice diagram preview. 
+To insert a border via the Format Cells dialog, this is what you need to do:
+I.Select one or more cells to which you'd like to add borders.
+
+II.Open the Format Cells dialog box by doing one of the following:
+oClick the down arrow next to the Borders button, and then click More Borders at the bottom of the drop-down list.
+oRight click the selected cells and choose Format Cells… from the context menu.
+oPress Ctrl+1 shortcut. 
+
+Q3. How to Format Numbers as Currency in Excel?
+ANS =  
+I.Select the cells that you want to format and then, in the Number group on the Home tab, click the down arrow in the Number Format box.
+II.Choose either Currency or Accounting.
+
+Q4. What are the steps to format numbers in Excel with the Percent style? 
+ANS = To apply the percentage number format to a number, first select the number(s), then use any of these methods:
+I.Use the keyboard shortcut Control + Shift + Enter
+II.Select "Percentage" from the dropdown on the home tab of the ribbon
+III.Click the % button in the Number section on the home tab of the ribbon
+IV.Control + 1 > Number > Percentage
+
+Q5.What is a shortcut to merge two or more cells in excel?
+ANS = 
+I.Merge Cells – ALT H+M+M
+II.Merge & Center - ALT H+M+C
+       III.Merge Across – ALT H+M+A 
+
+Q6. How do you use text commands in Excel?
+ANS =  We use the TEXT function in the following circumstances:
+
+I.When we want to display dates in a specified format
+II.When we wish to display numbers in a specified format or in a more legible way
+III.When we wish to combine numbers with text or characters
+
+
+
+
+
+
