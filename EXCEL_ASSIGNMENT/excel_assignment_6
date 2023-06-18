@@ -1,0 +1,77 @@
+Q1. What are the various elements of the Excel interface? Describe how they're used. 
+Ans =  
+
+Interface Element	Description
+Ribbon Tabs	Ribbon Tab is a tab that organizes commands by topic
+The Ribbon	Commands underneath the Tabs
+Ribbon Groups	Grouping of related commands
+Dialog Box Launcher	Opens a dialog box that includes additional commands
+Quick Access Toolbar	One click access to any frequently used command
+Name Box	Displays cell location and can be used to navigate to a cell location
+Select All Button	Selects all the cells in a worksheet
+Formula Bar	View, enter, or edit cell contents
+Insert Function Button	Displays Insert Function dialog box
+Scroll Bars	Used to navigate up, down, left & right
+Zoom Slider	Zoom into an area of the worksheet
+View Buttons	Switch between Normal, Page Layout and Page Break Preview views
+Worksheet tabs	Tabs used to select individual worksheets
+The Workspace	The area inside of the columns and rows used in Excel
+Columns	Columns use letters
+Rows	Rows use numbers
+
+
+Q2. Write down the various applications of Excel in the industry.
+ANS = 
+ 
+1. Business Analysis
+2.People Management
+3.Managing Operations
+4.Performance Reporting
+5.Office Administration
+6.Strategic Analysis
+7.Project Management
+8.Managing Programs
+9.Contract Administration
+10.Account Management
+
+
+
+
+Q3. On the ribbon, make a new tab. Add some different groups, insert commands in the groups and name them according to their commands added. Copy and paste the screenshot of the steps you followed. ?
+ANS = 
+Q4. Make a list of different shortcut keys that are only connected to 
+formatting with their functions. 
+ANS = 
+ Ctrl+B: Apply bold formatting to the selected cells
+Ctrl+I: Apply italic formatting to the selected cells
+Ctrl+U: Apply underline formatting to the selected cells
+Ctrl+1: Open the Format Cells dialog box
+Ctrl+Shift+~: Apply General number format to the selected cells
+Ctrl+Shift+!: Apply Number format with two decimal places, comma separator and minus sign for negative values
+Ctrl+Shift+$: Apply Currency format with two decimal places and comma separator
+Ctrl+Shift+%: Apply Percentage format with no decimal places
+Ctrl+Shift+^: Apply Exponential number format with two decimal places
+Ctrl+Shift+#: Apply Date format with day, month and year
+Ctrl+Shift+@: Apply Time format with hour, minute and AM/PM
+Ctrl+Shift+&: Apply Border to the selected cells
+Ctrl+Shift+_ (underscore): Remove Border from the selected cells
+Ctrl+Shift+1: Apply Number format with comma separator and no decimal places
+Ctrl+Shift+2: Apply Time format with hour, minute, second and AM/PM
+Ctrl+Shift+3: Apply Date format with day, month and year
+Ctrl+Shift+4: Apply Currency format with two decimal places, minus sign for negative values and parentheses for positive values
+Ctrl+Shift+5: Apply Percentage format with one decimal place, comma separator and minus sign for negative values
+Ctrl+Shift+6: Apply Number format with comma separator, one decimal place and scientific notation
+Q5. What distinguishes Excel from other analytical tools? 
+ANS = Microsoft Excel is a useful tool for the businesses. Companies use the software to organize the data and maximize returns on investment. The large scale organizations have great volume of data from different resources like online sales, in store transactions and the social media. It is important to analyze this information in an efficient manner.
+The excel spreadsheet displays financial information in an organized manner. The information could be related to the sales, management department, HR or the marketing. Most of the businesses are dependent on IT sector and therefore excel is a vital tool to run a business. Read on to learn about the topmost features of this software.
+It builds the charts
+It makes use of conditional formatting
+It helps to organize the data
+It will identify trends
+It provides online access
+Excel will use range of formulas to unlock the potential of data. You have to insert data in individual cells of columns and rows. In this way, data will be filtered and sorted and hence displayed in a presentable manner. Different types of charts like clustered columns, graphs and pie chart provide great visual presentation. It puts more emphasis to marketing material and business reports. Excel is a wonderful tool to represent data on X and Y
+
+
+
+Q6.Create a table and add a custom header and footer to your table.
+ANS =
